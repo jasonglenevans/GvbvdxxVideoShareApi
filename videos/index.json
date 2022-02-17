@@ -2,7 +2,8 @@
   "videos":[
     {
       "title":"Test Video",
-      "src":"sample-5s.mp4"
+      "src":"sample-5s.mp4",
+      "dsc":"Test.<br>Test Line."
     }
   ]
 }
